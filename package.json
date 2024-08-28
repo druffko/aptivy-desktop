@@ -1,0 +1,20 @@
+{
+  "name": "Aptivy",
+  "version": "1.0.0",
+  "description": "Convert any Website into a Desktop application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "druffko.gg",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^16.0.6",
+    "electron-builder": "^22.14.5"
+  },
+  "build": {
+    "mac": {
+      "category": "public.app-category.utilities"
+    }
+  }
+}
