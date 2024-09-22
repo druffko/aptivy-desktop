@@ -1,3 +1,5 @@
+![Repo-Image](https://druffko.gg/github-images/aptivy-desktop.png)
+
 <div align="center">
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/druffko/aptivy-desktop?include_prereleases)
